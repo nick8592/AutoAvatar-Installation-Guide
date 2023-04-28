@@ -33,7 +33,7 @@ mkdir external
 cd <workspace_folder>/external
 git clone https://github.com/nghorbani/human_body_prior.git
 ```
- - Now we should have the folder structure as [link](https://github.com/nick8592/AutoAvatar-Installation-Guide/blob/main/folder_structure.md).
+ - Now we should have the folder structure as [link](https://github.com/nick8592/AutoAvatar-Installation-Guide/blob/main/DFaust%20Data%20Preparation/folder_structure.md).
 
 ## Environment Setup
  - Install Anaconda or Miniconda. Then run the setup script.
